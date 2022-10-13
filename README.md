@@ -7,3 +7,5 @@
 
 ## Deliverable 2
 ![Mecha Car Total Summary](total_summary.png)
+
+![lot_summary](lot_summary.png)
