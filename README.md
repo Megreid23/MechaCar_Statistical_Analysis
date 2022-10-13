@@ -9,3 +9,9 @@
 ![Mecha Car Total Summary](total_summary.png)
 
 ![lot_summary](lot_summary.png)
+
+
+## Deliverable 3
+![lot1](lot1.png)
+![lot2](lot2.png)
+![lot3](lot3.png)
