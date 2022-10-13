@@ -15,13 +15,23 @@ Uses multiple linear regression to properly analyze which variables in the given
   - A3. The Multiple R-Squared value is equal to 0.7149033 or 0.7149. As this value is between 0 and 1, it can be used to indicate that the model is efficient in predicting MPG.
 
 
-## Deliverable 2
+## Summary Statistics on Suspension Coils
+
 ![Mecha Car Total Summary](total_summary.png)
 
 ![lot_summary](lot_summary.png)
 
+* Q1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+  - A1. By analyzing all three Lots together, the total variance is 62.29356, under the 100 pounds per square inch.
+  - A2. By analyzing the three Lots separately, Lots 1 and 2 both meet the criteria of fallung under 100 pounds per square inch, while Lot 3 exceeds it.
 
-## Deliverable 3
+## Lot Summary
+
+* Lot 1 is not significantly different from the mean.
 ![lot1](lot1.png)
+
+* Lot 2 is not significantly different from the mean.
 ![lot2](lot2.png)
+
+* Lot 3 is significantly different from the mean.
 ![lot3](lot3.png)
