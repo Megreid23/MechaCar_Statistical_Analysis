@@ -40,5 +40,5 @@ Uses multiple linear regression to properly analyze which variables in the given
 ## Study Design: MechaCar vs Competition
 
 A statistical study that could be performed against competitors is the safety averages for passengers, specifically female passengers as most model tests are done with test dummies that are sized and weighted as the average male, resulting in different saftey rates.
-It might be best to use a Two-Sample t-Test to determine the variance in safety ratings, using data from male-dummy and female-dummy saftey tests, using dichotomous data (Sample A or male dummies and Sample B or female dummies).
-The alternative hypothesis could be that the findings of the safety tests are less than .05, making the signifcance of the results inconsequential.
+* It might be best to use a Two-Sample t-Test to determine the variance in safety ratings, using data from male-dummy and female-dummy saftey tests, using dichotomous data (Sample A or male dummies and Sample B or female dummies).
+* The alternative hypothesis could be that the findings of the safety tests are less than .05, making the signifcance of the results inconsequential.
