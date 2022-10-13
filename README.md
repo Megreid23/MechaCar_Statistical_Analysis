@@ -6,7 +6,7 @@ Uses multiple linear regression to properly analyze which variables in the given
 ![Mecha Car Linear Summary](mechacar_linear.png)
 
 * Q1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-** A1. Using the given MechaCar_mpg dataset to determine the statistical variance in vehicle_weight and ground_clearance make it unlikely to be inefficent in accurately assessing MPG.
+*** A1. Using the given MechaCar_mpg dataset to determine the statistical variance in vehicle_weight and ground_clearance make it unlikely to be inefficent in accurately assessing MPG.
 
 * Q2. Is the slope of the linear model considered to be zero? Why or why not?
 ** A2. The slope is statistcally significant in that the intercept is less than .05 and greater than 0. The intercept shows variability in the dependent variable, while the independent varaibles are all amounting to zero.
